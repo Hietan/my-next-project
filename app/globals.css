@@ -61,6 +61,11 @@ code {
 	text-decoration: none;
 }
 
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
 ol,
 ul {
 	list-style: none;
