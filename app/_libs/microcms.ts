@@ -9,7 +9,7 @@ import type {
 export type Member = {
 	name: string;
 	position: string;
-	porifile: string;
+	profile: string;
 	image: MicroCMSImage;
 } & MicroCMSListContent;
 
